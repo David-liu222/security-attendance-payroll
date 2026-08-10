@@ -1,0 +1,4 @@
+interface:
+  display_name: "安保考勤工资分配"
+  short_description: "核验安保原始打卡、工程奖励并严格按模板生成工资分配表"
+  default_prompt: "使用 $security-attendance-payroll 核对本月安保考勤，按模板生成考勤表和工资内部分配表。"
